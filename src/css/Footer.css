@@ -1,0 +1,17 @@
+
+
+.footer {
+  margin-top: auto;  
+  text-align: center;
+  background-color: transparent;
+  color: rgb(114, 106, 221);
+  padding: 10px 0;
+}
+hr{
+    color:rgb(114, 106, 221);
+}
+
+.footer .small {
+  font-size: 14px;
+  margin-top: 4px;
+}
